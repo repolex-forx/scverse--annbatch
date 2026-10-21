@@ -1,0 +1,7 @@
+[2026-10-21T20:31:46Z] === AST ITERATION 1 START | repo=scverse/annbatch sha=aa20094e ===
+[2026-10-21T20:31:46Z] [iter=1] PHASE START: ast repo=scverse/annbatch sha=aa20094e
+[2026-10-21T20:31:46Z] [iter=1] Building AST aggregate chunks
+[2026-10-21T20:32:22Z] [iter=1] AST chunks built count=1 triples=341705
+[2026-10-21T20:32:22Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/aa20094e6f8c32755dc0c982d6abf154c59a884c/.complete
+[2026-10-21T20:32:22Z] [iter=1] PHASE END: ast elapsed_s=35 elapsed_min=0.6
+[2026-10-21T20:32:22Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
